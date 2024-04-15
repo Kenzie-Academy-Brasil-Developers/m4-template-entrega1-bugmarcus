@@ -8,7 +8,7 @@ Você poderá iniciar a aplicação rodando o comando:
 npm run dev
 ```
 
-Você poderá rodar os testes automáticos preparádos para essa aplicação rodando o comando:
+Você poderá rodar os testes automáticos preparados para essa aplicação rodando o comando:
 
 ```
 npm run test
